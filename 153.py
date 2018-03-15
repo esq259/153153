@@ -1,2 +1,4 @@
-import this
-print ("된거야?")
+def div(a) :
+    print ("Result :", a/2)
+num = input("Input any number :")
+div(int(num))
